@@ -1,1 +1,21 @@
 config/*
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Logs
+*.log
+
+# Sistemas
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+dist/
+build/
